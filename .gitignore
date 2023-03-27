@@ -40,4 +40,5 @@ sites/simpletest
 
 # Ignore SimpleTest multi-site environment.
 # simpletest
-.sqlite
+.ht.sqlite
+
